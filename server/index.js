@@ -5,7 +5,7 @@ import router from './routes/Auth.js';
 import cookieParser from 'cookie-parser'
 import dotenv from 'dotenv'
 dotenv.config()
-
+import path from 'path'
 
 const app = express();
 
@@ -18,7 +18,7 @@ app.use(express.json())
 app.use(cors())
 app.use(cookieParser())
 app.use('/api/auth', router)
-app.use(express.static(process.env.PUBLIC_DIR))
+app.use(express.static(path.resolve('dist')))
 
 app.listen(PORT,()=>{
     connectDB()
