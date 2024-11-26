@@ -13,11 +13,11 @@
     "routes":[
         {
             "src":"/",
-            "dist":"dist/index.html"
+            "dest":"dist/index.html"
         },
         {
             "src":"/(.+)",
-            "dist":"dist/&1"
+            "dest":"dist/&1"
         }
     ]
 
