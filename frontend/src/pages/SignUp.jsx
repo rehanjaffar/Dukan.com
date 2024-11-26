@@ -13,7 +13,7 @@ export default function SignUp() {
     const handleSubmit =async (e)=>{
         e.preventDefault();
 try {
-    const response = await axios.post('http://localhost:5000/api/auth/register', {name,email,password});
+    const response = await axios.post('/api/auth/register', {name,email,password});
     console.log('data transfer success');
    if(response.data.success){
     navigate('/login')

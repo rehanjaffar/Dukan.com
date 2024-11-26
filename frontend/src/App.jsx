@@ -30,7 +30,7 @@ const App = () => {
   useEffect(()=>{
 const checkAuth = async ()=>{
   try {
-    const res = await axios.get('http://localhost:5000/api/auth/check',{
+    const res = await axios.get('/api/auth/check',{
       withCredentials:true
     });
     if(!res.data.authenticated){
@@ -38,7 +38,7 @@ const checkAuth = async ()=>{
       setIsAuthenticated(false)
     }else{
       setIsAuthenticated(true)
-      const userRes = await axios.get("http://localhost:5000/api/auth/show", {
+      const userRes = await axios.get("/api/auth/show", {
         withCredentials: true,
       });
       setUsername(userRes.data.username);

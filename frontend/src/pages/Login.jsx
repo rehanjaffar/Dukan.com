@@ -13,7 +13,7 @@ export default function Login({setAuth}) {
     const handleSubmit =async (e)=>{
         e.preventDefault();
 try {
-    const response = await axios.post('http://localhost:5000/api/auth/login', {email,password}, {withCredentials:true});
+    const response = await axios.post('/api/auth/login', {email,password}, {withCredentials:true});
     console.log('data transfer success');
     setAuth(true)
     navigate('/admin')
