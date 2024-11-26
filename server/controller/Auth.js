@@ -15,7 +15,7 @@ const register = async(req,res)=>{
         const {name,email,password} = req.body;
         const user = await UserModal.findOne({email})
         if(user){
-            res.status(402).json({success:false,message:"user already exist"})
+            return res.status(402).json({success:false,message:"user already exist"})
         }
 
 const hashPass = await bcrypt.hash(password,10);
@@ -26,7 +26,7 @@ const hashPass = await bcrypt.hash(password,10);
    res.status(200).json({success:true,message:"user register successfully"})
     } catch (error) {
         console.log('controller'+ error);
-        
+        res.status(500).json({success: false,message:"internal server error"})
     }
 }
 
