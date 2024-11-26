@@ -15,6 +15,14 @@
             "src":"/",
             "dest":"dist/index.html"
         },
+{
+            "src":"/login",
+            "dest":"dist/index.html"
+        },
+{
+            "src":"/register",
+            "dest":"dist/index.html"
+        },
         {
             "src":"/(.+)",
             "dest":"dist/$1"
