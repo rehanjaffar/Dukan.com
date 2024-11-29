@@ -59,7 +59,7 @@ if(!token){
     return res.json({authenticated:false,message:"token not found"})
 }
 try {
-    jwt.verify(token,secretKey);
+   const decode = jwt.verify(token,secretKey);
     res.json({authenticated:true,message:"token found"})
     console.log('token found');
     
@@ -85,7 +85,7 @@ const showUser = async (req,res)=>{
         if (!user) {
           return res.status(404).send("User not found");
         }
-        res.json({ username: user.name }); 
+       return res.json({ username: user.name }); 
     }
         catch (error) {
         console.log(error);

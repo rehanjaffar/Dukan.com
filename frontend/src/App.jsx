@@ -1,19 +1,45 @@
-import React, { useEffect, useState} from "react";
-import { BrowserRouter, Navigate, Route, Routes, useNavigate } from 'react-router-dom'
-
+import React, { useEffect, Suspense, lazy, useState } from "react";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import AOS from "aos";
 import "aos/dist/aos.css";
-
-import Home from "./pages/Home";
-import NotFound from "./pages/NotFound";
-import SignUp from "./pages/SignUp";
-import Login from "./pages/Login";
-import axios from "axios";
+import { AuthProvider, useAuth } from "./context/AuthContext";
 import Loader from "./pages/Loader";
-import Admin from "./pages/Admin";
+import AllProducts from "./pages/AllProducts";
+
+const Home = lazy(() => import("./pages/Home"));
+const NotFound = lazy(() => import("./pages/NotFound"));
+const SignUp = lazy(() => import("./pages/SignUp"));
+const Login = lazy(() => import("./pages/Login"));
+const Admin = lazy(() => import("./pages/Admin"));
+const AddProducts = lazy(() => import("./components/Admin/AddProducts"));
+const Products = lazy(() => import("./components/Admin/Products"));
+
+const AppRoutes = () => {
+  const { isAuthenticated,setIsAuthenticated, username, loading } = useAuth();
+
+ 
+
+  if (loading) return <Loader />;
+
+  return (
+    <Routes>
+      <Route path="/" element={<Home username={username} />} />
+      <Route
+        path="/admin"
+        element={isAuthenticated ? <Admin username={username} /> : <Navigate to="/login" replace />}
+      >
+        <Route path="add" element={<AddProducts />} />
+        <Route path="products" element={<Products />} />
+      </Route>
+      <Route path="/register" element={<SignUp />} />
+      <Route path="/login" element={<Login  setIsAuthenticated={setIsAuthenticated}/>}  />
+      <Route path="*" element={<NotFound />} />
+      <Route path="/products" element={<AllProducts username={username}/>}/>
+    </Routes>
+  );
+};
 
 const App = () => {
- 
   useEffect(() => {
     AOS.init({
       offset: 100,
@@ -24,60 +50,14 @@ const App = () => {
     AOS.refresh();
   }, []);
 
-  const [isAuthenticated,setIsAuthenticated] = useState(false);
-  const [loading,setLoading] = useState(true);
-  const [username, setUsername] = useState("");
-  useEffect(()=>{
-const checkAuth = async ()=>{
-  try {
-    const res = await axios.get('/api/auth/check',{
-      withCredentials:true
-    });
-    if(!res.data.authenticated){
-      alert(res.data.message || 'session expired login again ');
-      setIsAuthenticated(false)
-    }else{
-      setIsAuthenticated(true)
-      const userRes = await axios.get("/api/auth/show", {
-        withCredentials: true,
-      });
-      setUsername(userRes.data.username);
-    }
-   console.log(res.data.authenticated);
-   console.log(res);
-  } catch (error) {
-    setIsAuthenticated(false)
-    console.log(error); 
-  } finally {
-    setLoading(false);
-  }
-};
-checkAuth();
-  },[])
-
-  console.log(isAuthenticated);
- console.log(username);
- 
-  
-  if (loading){
-    return <div><Loader/></div>
-  }
-
-
-
   return (
-    <>
     <BrowserRouter>
-    <Routes>
-<Route exact path="/" element={ <Home username={username} /> }/>
-<Route exact path="/admin" element={ isAuthenticated ? <Admin username={username} /> : <Navigate to='/login' replace/>}/>
-<Route exact path="/register" element={ <SignUp/>}/>
-<Route exact path="/login" element={ <Login setAuth={setIsAuthenticated}/>}/>
-<Route  path="*" element={ <NotFound/>}/>
-    </Routes>
+      <AuthProvider>
+        <Suspense fallback={<Loader />}>
+          <AppRoutes />
+        </Suspense>
+      </AuthProvider>
     </BrowserRouter>
-   
-    </>
   );
 };
 

@@ -6,9 +6,14 @@ import { FaCaretDown } from "react-icons/fa";
 import DarkMode from "./DarkMode";
 import { DropdownLinks, Menu } from "./NavData";
 import { Link } from 'react-router-dom'
+import { useAuth } from "../../context/AuthContext";
 
 
-const Navbar = ({ handleOrderPopup,username,handleLogout }) => {
+const Navbar = ({ handleOrderPopup,username }) => {
+  const { logout } = useAuth();
+  const handleLogout = () => {
+    logout(); // Calling the logout function
+  }; 
   return (
     <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-200 relative z-40">
       {/* upper Navbar */}
@@ -52,7 +57,7 @@ const Navbar = ({ handleOrderPopup,username,handleLogout }) => {
               {
                 username ?
                 <div className="flex gap-4">
-                 <p className=" hidden sm:flex justify-center items-center gap-2"> {username} <FaUser/></p> <button onClick={handleLogout} className="border-slate-200 border py-1 px-2 rounded dark:bg-teal-800 hover:text-white hover:bg-emerald-600">
+                 <p className=" hidden sm:flex justify-center items-center gap-2"><Link to='/admin'> {username} </Link><FaUser/></p> <button onClick={handleLogout} className="border-slate-200 border py-1 px-2 rounded dark:bg-teal-800 hover:text-white hover:bg-emerald-600">
                 Logout
                 </button> 
                 </div>

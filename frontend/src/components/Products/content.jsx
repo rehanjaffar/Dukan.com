@@ -7,7 +7,7 @@ import Img4 from "../../assets/women/women4.jpg";
 
 export const content =
 {
-    products: [
+    productsimage: [
         {
             id: 1,
             img: Img1,

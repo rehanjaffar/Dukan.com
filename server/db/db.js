@@ -7,7 +7,7 @@ const MONGO_URL = process.env.MONGO_URL
 
 const connectDB = async ()=>{
     try {
-       await mongoose.connect(MONGO_URL)
+       await mongoose.connect('mongodb://localhost:27017/dukan-db')
         console.log('database is connected');
         
     } catch (error) {
