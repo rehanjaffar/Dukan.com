@@ -7,6 +7,7 @@ import {
   FaLocationArrow,
   FaMobileAlt,
 } from "react-icons/fa";
+import { NavLink } from "react-router-dom";
 
 const BannerImg = {
   backgroundImage: `url(${Banner})`,
@@ -25,7 +26,7 @@ const Footer = () => {
   return (
     <div style={BannerImg} className="text-white">
       <div className="container">
-        <div data-aos="zoom-in" className="grid md:grid-cols-3 pb-44 pt-5">
+        <div  className="grid md:grid-cols-3 pb-44 pt-5">
           {/* company details */}
           <div className="py-8 px-4">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
@@ -51,7 +52,7 @@ const Footer = () => {
                       className="cursor-pointer hover:text-primary hover:translate-x-1 duration-300 text-gray-200"
                       key={i}
                     >
-                      <span>{footer.title}</span>
+                      <a href={footer.link}>{footer.title}</a>
                     </li>
                   ))}
                 </ul>

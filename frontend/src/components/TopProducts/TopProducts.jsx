@@ -5,17 +5,17 @@ import { ProductsData } from "./Data";
 
 const TopProducts = ({ handleOrderPopup }) => {
   return (
-    <div>
-      <div className="container">
+    <div id="topproducts">
+      <div className="container" >
         {/* Header section */}
         <div className="text-left mb-24">
-          <p data-aos="fade-up" className="text-sm text-primary">
+          <p className="text-sm text-primary">
             Top Rated Products for you
           </p>
-          <h1 data-aos="fade-up" className="text-3xl font-bold">
+          <h1 className="text-3xl font-bold">
             Best Products
           </h1>
-          <p data-aos="fade-up" className="text-xs text-gray-400">
+          <p  className="text-xs text-gray-400">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
             asperiores modi Sit asperiores modi
           </p>
@@ -24,8 +24,8 @@ const TopProducts = ({ handleOrderPopup }) => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-20 md:gap-5 place-items-center">
           {ProductsData.map((data, i) => (
             <div key={i}
-              data-aos="zoom-in"
-              className="rounded-2xl bg-white dark:bg-gray-800 hover:bg-black/80 dark:hover:bg-primary hover:text-white relative shadow-xl duration-300 group max-w-[300px]"
+            
+              className="rounded-2xl bg-indigo-50 dark:bg-gray-800 hover:bg-black/80 dark:hover:bg-primary hover:text-white relative shadow-xl duration-300 group max-w-[300px]"
             >
               {/* image section */}
               <div className="h-[100px]">

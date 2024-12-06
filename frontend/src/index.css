@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+html{
+    scroll-behavior: smooth;
+}
 
 .spinner{
    width: 50px;

@@ -1,10 +1,11 @@
-import React, { useEffect, Suspense, lazy, useState } from "react";
+import  {  Suspense, lazy} from "react";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import AOS from "aos";
+
 import "aos/dist/aos.css";
 import { AuthProvider, useAuth } from "./context/AuthContext";
 import Loader from "./pages/Loader";
 import AllProducts from "./pages/AllProducts";
+
 
 const Home = lazy(() => import("./pages/Home"));
 const NotFound = lazy(() => import("./pages/NotFound"));
@@ -14,6 +15,7 @@ const Admin = lazy(() => import("./pages/Admin"));
 const AddProducts = lazy(() => import("./components/Admin/AddProducts"));
 const Products = lazy(() => import("./components/Admin/Products"));
 
+
 const AppRoutes = () => {
   const { isAuthenticated,setIsAuthenticated, username, loading } = useAuth();
 
@@ -22,6 +24,7 @@ const AppRoutes = () => {
   if (loading) return <Loader />;
 
   return (
+ 
     <Routes>
       <Route path="/" element={<Home username={username} />} />
       <Route
@@ -40,17 +43,11 @@ const AppRoutes = () => {
 };
 
 const App = () => {
-  useEffect(() => {
-    AOS.init({
-      offset: 100,
-      duration: 800,
-      easing: "ease-in-sine",
-      delay: 100,
-    });
-    AOS.refresh();
-  }, []);
+ 
 
   return (
+    <>
+    
     <BrowserRouter>
       <AuthProvider>
         <Suspense fallback={<Loader />}>
@@ -58,6 +55,9 @@ const App = () => {
         </Suspense>
       </AuthProvider>
     </BrowserRouter>
+    
+    </>
+   
   );
 };
 

@@ -7,7 +7,7 @@ export const Menu = [
     {
       id: 2,
       name: "Top Rated",
-      link: "/#services",
+      link: "/#topproducts",
     },
     {
       id: 3,

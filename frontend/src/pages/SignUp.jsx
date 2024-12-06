@@ -14,7 +14,7 @@ export default function SignUp() {
         e.preventDefault();
 try {
     const response = await axios.post('http://localhost:5000/api/auth/register', {name,email,password});
-    console.log('data transfer success');
+    toast.success('Register successfully')
    if(response.data.success){
     navigate('/login')
    }

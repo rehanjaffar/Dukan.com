@@ -1,5 +1,6 @@
 import axios from "axios";
 import React, { useState } from "react";
+import { toast } from "react-toastify";
 
 export default function AddProducts() {
   const [title, setTitle] = useState("");
@@ -22,11 +23,12 @@ export default function AddProducts() {
           "Content-Type": "multipart/form-data",
         },
       });
-      console.log("Product created");
+      toast.success("Product created");
       setTitle("");
       setColor("");
       setRating("");
-      setImage(null);
+      setImage('');
+toast.success('Product added')
     } catch (error) {
       console.log(error);
     }

@@ -5,14 +5,14 @@ import Image3 from "../../assets/hero/sale.png";
 export const ImageList = [
     {
         id: 1,
-        img: Image1,
-        title: "Upto 50% off on all Men's Wear",
+        img: Image2,
+        title: "Upto 70% off on all Men's Wear",
         description:
             "lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
         id: 2,
-        img: Image2,
+        img: Image1,
         title: "30% off on all Women's Wear",
         description:
             "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",

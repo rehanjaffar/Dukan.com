@@ -5,7 +5,7 @@ import { FaCartShopping, FaUser } from "react-icons/fa6";
 import { FaCaretDown } from "react-icons/fa";
 import DarkMode from "./DarkMode";
 import { DropdownLinks, Menu } from "./NavData";
-import { Link } from 'react-router-dom'
+import { NavLink} from 'react-router-dom'
 import { useAuth } from "../../context/AuthContext";
 
 
@@ -15,15 +15,15 @@ const Navbar = ({ handleOrderPopup,username }) => {
     logout(); // Calling the logout function
   }; 
   return (
-    <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-200 relative z-40">
+    <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-200 z-40">
       {/* upper Navbar */}
-      <div className="bg-primary/40 py-2">
-        <div className="lg:container flex justify-between items-center">
+      <div className="bg-primary/40 py-2 ">
+        <div className="lg:container flex justify-between items-center gap-4">
           <div>
-            <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2">
+            <NavLink to={'/'} className="font-bold text-2xl sm:text-3xl flex gap-2">
               <img src={Logo} alt="Logo" className="w-10" />
              Dukan.com
-            </a>
+            </NavLink>
           </div>
 
           {/* search bar */}
@@ -57,11 +57,11 @@ const Navbar = ({ handleOrderPopup,username }) => {
               {
                 username ?
                 <div className="flex gap-4">
-                 <p className=" hidden sm:flex justify-center items-center gap-2"><Link to='/admin'> {username} </Link><FaUser/></p> <button onClick={handleLogout} className="border-slate-200 border py-1 px-2 rounded dark:bg-teal-800 hover:text-white hover:bg-emerald-600">
+                 <p className=" hidden sm:flex justify-center items-center gap-2"><NavLink to='/admin'> {username} </NavLink><FaUser/></p> <button onClick={handleLogout} className="border-slate-200 border py-1 px-2 rounded dark:bg-teal-800 hover:text-white hover:bg-emerald-600">
                 Logout
                 </button> 
                 </div>
-                : <button className="border-slate-200 border py-1 px-2 rounded dar:bg-teal-800 hover:bg-emerald-600"><Link to='/login' className="flex gap-4 items-center text-lg" >Login <FaUser/></Link></button>
+                : <button className="border-slate-200 border py-1 px-2 rounded dar:bg-teal-800 hover:bg-emerald-600"><NavLink to='/login' className="flex gap-4 items-center text-lg" >Login <FaUser/></NavLink></button>
               }
              
             </div>
@@ -69,7 +69,7 @@ const Navbar = ({ handleOrderPopup,username }) => {
         </div>
       </div>
       {/* lower Navbar */}
-      <div data-aos="zoom-in" className="flex justify-center">
+      <div  className="flex justify-center">
         <ul className="sm:flex hidden items-center gap-4">
           {Menu.map((data,i) => (
             <li key={i}>

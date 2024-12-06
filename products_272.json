@@ -1,0 +1,1906 @@
+[
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img1.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img2.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img3.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img4.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img5.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img6.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img7.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img8.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img9.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img10.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img11.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img12.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img13.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img14.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img15.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img16.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img17.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img18.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img19.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img20.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img21.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img22.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img23.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img24.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img25.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img26.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img27.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img28.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img29.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img30.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img31.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img32.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img33.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img34.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img35.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img36.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img37.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img38.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img39.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img40.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img41.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img42.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img43.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img44.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img45.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img46.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img47.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img48.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img49.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img50.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img51.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img52.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img53.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img54.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img55.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img56.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img57.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img58.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img59.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img60.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img61.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img62.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img63.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img64.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img65.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img66.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img67.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img68.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img69.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img70.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img71.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img72.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img73.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img74.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img75.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img76.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img77.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img78.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img79.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img80.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img81.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img82.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img83.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img84.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img85.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img86.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img87.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img88.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img89.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img90.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img91.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img92.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img93.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img94.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img95.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img96.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img97.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img98.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img99.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img100.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img101.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img102.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img103.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img104.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img105.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img106.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img107.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img108.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img109.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img110.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img111.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img112.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img113.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img114.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img115.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img116.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img117.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img118.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img119.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img120.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img121.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img122.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img123.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img124.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img125.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img126.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img127.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img128.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img129.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img130.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img131.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img132.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img133.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img134.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img135.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img136.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img137.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img138.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img139.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img140.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img141.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img142.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img143.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img144.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img145.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img146.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img147.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img148.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img149.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img150.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img151.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img152.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img153.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img154.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img155.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img156.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img157.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img158.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img159.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img160.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img161.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img162.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img163.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img164.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img165.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img166.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img167.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img168.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img169.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img170.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img171.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img172.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img173.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img174.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img175.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img176.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img177.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img178.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img179.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img180.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img181.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img182.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img183.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img184.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img185.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img186.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img187.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img188.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img189.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img190.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img191.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img192.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img193.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img194.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img195.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img196.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img197.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img198.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img199.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img200.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img201.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img202.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img203.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img204.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img205.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img206.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img207.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img208.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img209.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img210.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img211.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img212.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img213.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img214.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img215.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img216.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img217.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img218.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img219.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img220.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img221.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img222.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img223.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img224.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img225.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img226.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img227.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img228.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img229.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img230.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img231.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img232.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img233.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img234.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img235.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img236.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img237.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img238.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img239.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img240.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img241.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img242.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img243.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img244.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img245.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img246.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img247.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img248.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img249.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img250.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img251.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img252.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img253.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img254.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img255.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img256.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img257.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img258.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img259.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img260.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img261.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img262.png",
+    "rating": "4.3"
+  },
+  {
+    "title": "Men's Slip-On Sneakers",
+    "color": "Navy Blue",
+    "description": "Casual slip-on sneakers with a comfortable fit and modern design.",
+    "image": "uploads/img263.png",
+    "rating": "4.4"
+  },
+  {
+    "title": "Men's Sandals",
+    "color": "Tan",
+    "description": "Open-toe sandals with adjustable straps for a snug fit.",
+    "image": "uploads/img264.png",
+    "rating": "4.5"
+  },
+  {
+    "title": "Men's Trainers",
+    "color": "White",
+    "description": "Classic trainers designed for everyday use and comfort.",
+    "image": "uploads/img265.png",
+    "rating": "4.6"
+  },
+  {
+    "title": "Men's Loafers",
+    "color": "Red",
+    "description": "Stylish loafers with a modern touch, suitable for all-day wear.",
+    "image": "uploads/img266.png",
+    "rating": "4.7"
+  },
+  {
+    "title": "Men's Slippers",
+    "color": "Green",
+    "description": "Cozy slippers for indoor use, providing warmth and softness.",
+    "image": "uploads/img267.png",
+    "rating": "4.8"
+  },
+  {
+    "title": "Men's Boots",
+    "color": "Blue",
+    "description": "Durable boots crafted for rugged environments and tough conditions.",
+    "image": "uploads/img268.png",
+    "rating": "4.9"
+  },
+  {
+    "title": "Men's Athletic Shoes",
+    "color": "Yellow",
+    "description": "High-performance athletic shoes for sports and workouts.",
+    "image": "uploads/img269.png",
+    "rating": "5.0"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "color": "Black",
+    "description": "Lightweight running shoes with breathable mesh and durable sole.",
+    "image": "uploads/img270.png",
+    "rating": "4.1"
+  },
+  {
+    "title": "Men's Formal Leather Shoes",
+    "color": "Brown",
+    "description": "Elegant leather shoes perfect for office or formal occasions.",
+    "image": "uploads/img271.png",
+    "rating": "4.2"
+  },
+  {
+    "title": "Men's Hiking Boots",
+    "color": "Gray",
+    "description": "Sturdy boots with excellent grip, ideal for rough terrains.",
+    "image": "uploads/img272.png",
+    "rating": "4.3"
+  }
+]

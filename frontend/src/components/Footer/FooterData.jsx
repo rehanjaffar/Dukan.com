@@ -12,7 +12,7 @@ export const content = {
     footers: [
         {
             title: "Home",
-            link: "/#",
+            link: "/#home",
             logo: FaFacebook,
         },
         {

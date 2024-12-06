@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import Navbar from '../components/Navbar/Navbar'
 import ProductList from '../components/Products/AllProducts'
 import Popup from '../components/Popup/Popup';
+import Footer from '../components/Footer/Footer';
 
 export default function AllProducts({ username }) {
   const [orderPopup, setOrderPopup] = useState(false);
@@ -15,6 +16,7 @@ export default function AllProducts({ username }) {
         <ProductList/>
        </div>
        <Popup orderPopup={orderPopup} setOrderPopup={setOrderPopup} />
+       <Footer/>
     </div>
   )
 }

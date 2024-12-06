@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import axios from 'axios'
+import { toast } from 'react-toastify'
 
 
 export default function Login({setIsAuthenticated}) {
@@ -14,11 +15,11 @@ export default function Login({setIsAuthenticated}) {
         e.preventDefault();
 try {
     const response = await axios.post('http://localhost:5000/api/auth/login', {email,password}, {withCredentials:true});
-    console.log('data transfer success');
+    toast.success('Login successfully')
     setIsAuthenticated(true)
     navigate('/admin')
 } catch (error) {
-    console.log(error);
+   toast.error(error);
     
 }  
 }

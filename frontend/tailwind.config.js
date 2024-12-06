@@ -8,6 +8,9 @@ export default {
         primary: "#fea928",
         secondary: "#ed8900",
       },
+      gridTemplateColumns:{
+        'auto':"repeat(auto-fill, minmax(200px, 1fr))"
+      },
       container: {
         center: true,
         padding: {

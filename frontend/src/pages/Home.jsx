@@ -8,6 +8,8 @@ import Banner from "../components/Banner/Banner";
 import Subscribe from "../components/Subscribe/Subscribe";
 import Footer from "../components/Footer/Footer";
 import Popup from "../components/Popup/Popup";
+import { ToastContainer } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
 
 export default function Home({ username }) {
   const [orderPopup, setOrderPopup] = useState(false);
@@ -19,6 +21,7 @@ export default function Home({ username }) {
   return (
     <div className="bg-white dark:bg-gray-900 dark:text-white duration-200">
       <Navbar handleOrderPopup={handleOrderPopup} username={username} />
+      <ToastContainer/>
       <Hero handleOrderPopup={handleOrderPopup} />
       <Products />
       <TopProducts handleOrderPopup={handleOrderPopup} />
